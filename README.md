@@ -17,6 +17,7 @@ quitter le serveur local (développement ou production)
 `contrôle c (windows)`
 
 ### NMP (librairies)
-react-router-dom: <https://www.npmjs.com/package/react-router-dom>
-bootstrap       : <https://www.npmjs.com/package/bootstrap>
-uniqueid        : <https://www.npmjs.com/package/uniqid>
+- react-router-dom: <https://www.npmjs.com/package/react-router-dom>
+- bootstrap       : <https://www.npmjs.com/package/bootstrap>
+- uniqueid        : <https://www.npmjs.com/package/uniqid>
+- react-icons    :  <https://react-icons.github.io/react-icons/>
