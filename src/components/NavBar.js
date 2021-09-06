@@ -1,6 +1,6 @@
-import React from 'react'
-import {FaListAlt, FaCheckSquare, FaPlusSquare, FaTrash} from 'react-icons/fa'
-import {NavLink} from 'react-router-dom'
+import React from 'react';
+import {FaListAlt, FaCheckSquare, FaPlusSquare, FaTrash} from 'react-icons/fa';
+import {NavLink} from 'react-router-dom';
 
 const NavBar = ({onDeleteCompleted}) => (
     <footer className="d-flex justify-content-between bg-secondary p-3" id="mainFooter">
