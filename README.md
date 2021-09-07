@@ -1,4 +1,4 @@
-# Création d'une simple application web ToDoList avec React 
+# Création d'une simple application web ToDoList avec React, Redux
 
 installation des dépendances : `npm i`
 
@@ -20,4 +20,5 @@ quitter le serveur local (développement ou production)
 - react-router-dom: <https://www.npmjs.com/package/react-router-dom>
 - bootstrap       : <https://www.npmjs.com/package/bootstrap>
 - uniqueid        : <https://www.npmjs.com/package/uniqid>
-- react-icons    :  <https://react-icons.github.io/react-icons/>
+- react-icons     : <https://react-icons.github.io/react-icons/>
+- redux           : <https://www.npmjs.com/package/redux>
